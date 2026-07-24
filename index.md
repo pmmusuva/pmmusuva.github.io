@@ -1,7 +1,5 @@
 ---
-title: About
-icon: fas fa-info-circle
-order: 1
+layout: default
 ---
 
 ![Dr. Paula Musuva](/assets/img/avatar.jpg){: width="220" .w-50 .left}
@@ -49,6 +47,6 @@ She holds a PhD in Information Systems from the University of Nairobi, has autho
 
 ## Get in touch
 
-Nairobi, Kenya &nbsp;·&nbsp; [pmusuva@gmail.com](mailto:pmusuva@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pmusuva) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0002-2338-4313)
+Nairobi, Kenya &nbsp;·&nbsp; pmusuva [at] gmail [dot] com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pmusuva) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0002-2338-4313)
 
-See the [CV](/cv/) page for the full career timeline, or [Publications](/publications/) for the complete research record.
+See the [CV](/cv/) page for the full career timeline, [Publications](/publications/) for the complete research record, or [Posts](/posts/) for news and announcements.
