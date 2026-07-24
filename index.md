@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home-profile
 ---
 
 **Dr. Paula M. W. Musuva** — PhD · CISA · CEH · CDPSE — is an **Assistant Professor of Information Systems** at the **United States International University – Africa (USIU‑Africa)** and a research-active scholar-practitioner in cybersecurity, digital forensics, and information systems audit, with more than 20 years of combined experience in academia, applied research, and industry practice across Kenya, Uganda, Rwanda, Ethiopia, South Africa, and the United Kingdom.
