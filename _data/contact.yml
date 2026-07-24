@@ -1,0 +1,38 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/pmusuva"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+# Custom scholarly / professional profile links.
+# `type: custom` uses the `icon`, `url`, and `label` (tooltip text) you set below.
+- type: custom
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
+  label: "Google Scholar"
+
+- type: custom
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-2338-4313"
+  label: "ORCID"
+
+- type: custom
+  icon: "fas fa-award"
+  url: "https://www.credly.com/users/pmusuva"
+  label: "Credly (verified credentials)"
+
+- type: custom
+  icon: "fas fa-shield-alt"
+  url: "https://cybershujaa.co.ke/"
+  label: "Cyber Shujaa Program"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
