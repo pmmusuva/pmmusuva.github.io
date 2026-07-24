@@ -43,8 +43,4 @@ She holds a PhD in Information Systems from the University of Nairobi, has autho
 - Babaroa Trust Award for Academic Excellence, JKUAT
 - Employee of the Year, Seven Seas Technologies
 
-## Get in touch
-
-Nairobi, Kenya &nbsp;·&nbsp; pmusuva [at] gmail [dot] com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pmusuva) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0002-2338-4313)
-
 See the [CV](/cv/) page for the full career timeline, [Publications](/publications/) for the complete research record, or [Posts](/posts/) for news and announcements.
