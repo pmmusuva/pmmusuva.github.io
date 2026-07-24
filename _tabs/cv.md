@@ -4,8 +4,6 @@ icon: fas fa-file-lines
 order: 2
 ---
 
-<!-- TODO (Paula): export your CV to PDF and save it as assets/files/Paula_Musuva_CV.pdf — the button below will start working automatically once that file exists. -->
-
 <a href="{{ '/assets/files/Paula_Musuva_CV.pdf' | relative_url }}" class="btn btn-outline-primary" download>
   <i class="fas fa-download"></i>&nbsp; Download full CV (PDF)
 </a>
