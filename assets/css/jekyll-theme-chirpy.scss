@@ -19,3 +19,11 @@
 :root {
   font-size: 15px;
 }
+
+/* Top-align table cells instead of the browser default (middle) - reads
+   much better for multi-line cells, e.g. the Education table on the
+   homepage where one column wraps to several lines and another doesn't. */
+.content table td,
+.content table th {
+  vertical-align: top;
+}

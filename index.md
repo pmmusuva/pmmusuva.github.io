@@ -23,7 +23,7 @@ She holds a PhD in Information Systems from the University of Nairobi, has autho
 - **Penetration Testing & Vulnerability Analysis:** Nmap, Metasploit, Wireshark, Burp Suite, Nessus, Aircrack-ng, Maltego, Impacket, Wazuh, Recon-ng
 - **Data Science & Analytics:** Python, R, MATLAB, SPSS, AMOS, SmartPLS, Structural Equation Modelling, IBM Watson, Excel
 - **Networking & Systems:** Cisco network & security device configuration, Windows/UNIX/Linux administration, cloud computing (Azure, IBM Cloud)
-- **Languages:** English (fluent), Swahili (fluent)
+- **Languages:** English (fluent), Swahili (fluent), German (A2)
 
 ## Education
 
