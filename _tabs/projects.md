@@ -10,7 +10,7 @@ order: 4
 
 A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association delivering hands-on cybersecurity workforce training.
 
-- Trained **5,000+ youth** from **80+ tertiary institutions**, **80%+ job placement**, **41% women's participation**
+- Trained **5,200+ youth** from **80+ tertiary institutions**, **60%+ job placement**, **46% women's participation**
 - Designed and accredited curricula for Cyber Security Analyst, Cloud & Network Security, Data Protection, and Entrepreneurship tracks with the USIU-Africa University Senate
 - Funded by a **£200,000 Challenge Fund for Youth Employment (CFYE)** 4-year matched consortium grant
 - [Program website](https://cybershujaa.co.ke/)
