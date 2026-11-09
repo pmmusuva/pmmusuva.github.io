@@ -6,6 +6,8 @@ order: 6
 
 Conference talks and invited presentations. Peer-reviewed conference *papers* with DOIs are listed on the [Publications](/publications/) page — this page groups the same and additional talks chronologically as speaking engagements.
 
+- **2026 Africa Cyber Defence Forum** (Thursday 5 November) — Participated in a panel session on "Growing defenders faster than we lose them", sharing insights from the work of the Cyber Shujaa Program
+- **2026 Cyber Week Africa** (Thursday 29 October) — Delivered the keynote speech and hosted a panel titled "Closing the Gap: Cyber Threat Intelligence, AI, and the Future of Africa's Cybersecurity Workforce". [Watch on YouTube](https://www.youtube.com/watch?v=aznTqLcvfPQ)
 - **2025 IST-Africa Conference** — four papers presented: "Left Behind" in Digital Transformation (e-government non-use); Addressing the Cybersecurity Workforce Gap (Cyber Shujaa); Blockchain Technology Adoption in Land Administration; Exploring Emerging Technologies for Inclusive Education
 - **2024 IST-Africa Conference** — Determining the Efficacy of Cybersecurity Awareness Programs on Enhancing WiFi Security Behaviour; Digital Forensics as a Service Implementation
 - **2023 IST-Africa Conference** — Coeus: A Cyber Threat Intelligence Sharing Platform for Fraudulent Phone Numbers
