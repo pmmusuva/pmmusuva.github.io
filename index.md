@@ -43,4 +43,4 @@ She holds a PhD in Information Systems from the University of Nairobi, has autho
 - Babaroa Trust Award for Academic Excellence, JKUAT
 - Employee of the Year, Seven Seas Technologies
 
-See [Publications](/publications/) for the complete research record, or [Posts](/posts/) for news and announcements.
+See the [CV](/cv/) page for the full career timeline, [Publications](/publications/) for the complete research record, or [Posts](/posts/) for news and announcements.
