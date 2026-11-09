@@ -2,7 +2,7 @@
 title: Keynote and panel at Cyber Week Africa 2026
 date: 2026-10-29 09:00:00 +0300
 categories: [News]
-tags: [conferences, keynote, cyber-shujaa]
+tags: [Cyber Week Africa, Keynote, Cyber Threat Intelligence, AI, Cybersecurity Workforce]
 ---
 
 On Thursday 29 October 2026, Dr. Musuva delivered the keynote speech at **Cyber Week Africa** and hosted a panel titled **"Closing the Gap: Cyber Threat Intelligence, AI, and the Future of Africa's Cybersecurity Workforce"**.
